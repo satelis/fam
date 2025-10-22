@@ -1,0 +1,8 @@
+C:\Users\hiq\source\repos\est-dados-n1\est-dados-n1\bin\Debug\est-dados-n1.exe.config
+C:\Users\hiq\source\repos\est-dados-n1\est-dados-n1\bin\Debug\est-dados-n1.exe
+C:\Users\hiq\source\repos\est-dados-n1\est-dados-n1\bin\Debug\est-dados-n1.pdb
+C:\Users\hiq\source\repos\est-dados-n1\est-dados-n1\obj\Debug\est-dados-n1.csproj.AssemblyReference.cache
+C:\Users\hiq\source\repos\est-dados-n1\est-dados-n1\obj\Debug\est-dados-n1.csproj.CoreCompileInputs.cache
+C:\Users\hiq\source\repos\est-dados-n1\est-dados-n1\obj\Debug\est-dados-n1.exe
+C:\Users\hiq\source\repos\est-dados-n1\est-dados-n1\obj\Debug\est-dados-n1.pdb
+C:\Users\hiq\source\repos\est-dados-n1\est-dados-n1\obj\Debug\est-dados-n1.exe.config
