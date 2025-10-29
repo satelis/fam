@@ -70,6 +70,7 @@ namespace est_dados_n1 {
 
         Registro reg = new Registro(registroList);
 
+            reg.ImprimePorRegiao("Nordeste");
         }
     }
 }
