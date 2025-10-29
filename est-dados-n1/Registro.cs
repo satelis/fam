@@ -51,8 +51,10 @@ namespace est_dados_n1 {
             {"Norte", 4.8},
             {"Nordeste", 4.9}
         };
+        //variavel que armazena lista criada no main para a classe registro
+        private List<Registro> lista;
 
-        //construtor
+        //construtor de cada registro
         public Registro(string nomeProprietario, double valorVeiculo, string estado, int anoFabricacao) {
             this.nomeProprietario = nomeProprietario;
             this.valorVeiculo = valorVeiculo;
@@ -61,12 +63,10 @@ namespace est_dados_n1 {
             regiao = regioes[estado];
         }
 
-        //passa a lista criada no main para a classe registro
-        private List<Registro> lista;
-        public void CarregaLista(List<Registro> listaMain) {
-            lista = listaMain;
+        //construtor que permite a passagem da lista
+        public Registro(List<Registro> listaMain) {
+            this.lista = listaMain;
         }
-
 
         //1- imprimir por regiao
         public void ImprimePorRegiao(string regiaoEscolhida) {
