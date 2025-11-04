@@ -43,7 +43,7 @@ namespace est_dados_n1 {
             {"AL","Nordeste"},
             {"PB","Nordeste"}
         };
-        
+        //tabela de imposto
         private Dictionary<string, double> impostoPorRegiao = new Dictionary<string, double>() {
             {"Sul", 3.5},
             {"Sudeste", 4.5},
@@ -70,6 +70,7 @@ namespace est_dados_n1 {
 
         //1- imprimir por regiao
         public void ImprimePorRegiao(string regiaoEscolhida) {
+            Console.WriteLine("{0,-30} {1, 8} {2, -3} {3, 5}", "Nome do Proprietário", "Valor", "UF", "Ano Fab.");
             for (int i = 0; i < lista.Count; i++) {
                 if (lista[i].regiao.Equals(regiaoEscolhida)) {
                     Console.WriteLine("{0,-30} {1, 8} {2, -3} {3, 5}", lista[i].nomeProprietario, lista[i].valorVeiculo, lista[i].estado, lista[i].anoFabricacao);
