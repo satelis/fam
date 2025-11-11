@@ -77,5 +77,15 @@ namespace est_dados_n1 {
                 }
             }
         }
+
+        //3- imprimir por ano de fabricação
+        public void ImprimePorAno(int anoEscolhido) {
+            Console.WriteLine("\n{0,-30} {1,8} {2,-3} {3,5}", "Nome do proprietário", "Valor", "UF", "Ano Fab.");
+            for (int i = 0; i < lista.Count; i++) {
+                if (lista[i].anoFabricacao.Equals(anoEscolhido)) {
+                    Console.WriteLine("{0,-30} {1,8} {2,-3} {3,5}", lista[i].nomeProprietario, lista[i].valorVeiculo, lista[i].estado, lista[i].anoFabricacao);
+                }
+            }
+        }
     }
 }

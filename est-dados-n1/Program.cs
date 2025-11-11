@@ -68,9 +68,21 @@ namespace est_dados_n1 {
                 new Registro("Raquelina Albra", 45602, "PR", 2021)
             };
 
-        Registro reg = new Registro(registroList);
+            Dictionary<int, string> opcoes = new Dictionary<int, string>() {
+                {1, "Norte"},
+                {2, "Nordeste"},
+                {3, "Centro-Oeste"},
+                {4, "Sudeste"},
+                {5, "Sul"}
+            };
+            
+            Registro menu = new Registro(registroList);
 
-            reg.ImprimePorRegiao("Nordeste");
+            menu.ImprimePorRegiao("Nordeste");
+            menu.ImprimePorAno(2005);
+            
+
+
         }
     }
 }
