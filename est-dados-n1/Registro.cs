@@ -78,6 +78,37 @@ namespace est_dados_n1 {
             }
         }
 
+        //2-imprimir tabela imposto
+        private double CalculoValorImposto(double valor, string regiao) {
+            return valor * impostoPorRegiao[regiao];
+        }
+
+        public void ImprimeTabelaImposto() {
+            Console.WriteLine("\n{0,-40} {1,15} {2,-5} {3,10} {4,15}", "Nome do proprietário", "Valor", "UF", "Ano Fab.", "Imposto");
+            Console.WriteLine("---------------------------------------- --------------- ----- ---------- ---------------");
+
+            for (int i = 0; i < lista.Count; i++) {
+                if (lista[i].valorVeiculo <= 15000) {
+
+                    Console.WriteLine("{0,-40} {1,15:C2} {2,-5} {3,10} {4,15}",
+                        lista[i].nomeProprietario,
+                        lista[i].valorVeiculo,
+                        lista[i].estado,
+                        lista[i].anoFabricacao,
+                        "Isento");
+                }
+                else {
+
+                    Console.WriteLine("{0,-40} {1,15:C2} {2,-5} {3,10} {4,15:C2}",
+                        lista[i].nomeProprietario,
+                        lista[i].valorVeiculo,
+                        lista[i].estado,
+                        lista[i].anoFabricacao,
+                        CalculoValorImposto(lista[i].valorVeiculo, lista[i].regiao));
+                }
+            }
+        }
+
         //3- imprimir por ano de fabricação
         public void ImprimePorAno(int anoEscolhido) {
             Console.WriteLine("\n{0,-30} {1,8} {2,-3} {3,5}", "Nome do proprietário", "Valor", "UF", "Ano Fab.");
@@ -85,6 +116,25 @@ namespace est_dados_n1 {
                 if (lista[i].anoFabricacao.Equals(anoEscolhido)) {
                     Console.WriteLine("{0,-30} {1,8} {2,-3} {3,5}", lista[i].nomeProprietario, lista[i].valorVeiculo, lista[i].estado, lista[i].anoFabricacao);
                 }
+            }
+        }
+
+        //4- frequencia de anos
+        public void ImprimeFrequenciaAnos() {
+            int menorAno = lista.Min(l => l.anoFabricacao);
+            int maiorAno = lista.Max(l => l.anoFabricacao);
+            Console.WriteLine("\n{0,-20} {1,-20}", "Ano Fabricação", "Frequência");
+            int conta = 0;
+            for (int i = menorAno; i <= maiorAno; i++) {
+                for (int j = 0; j < lista.Count; j++) {
+                    if (lista[j].anoFabricacao == i) {
+                        conta++;
+                    }
+                }
+                if (conta != 0) {
+                    Console.WriteLine("{0,-20} {1,-20}", i, conta);
+                }
+                conta = 0;
             }
         }
     }
