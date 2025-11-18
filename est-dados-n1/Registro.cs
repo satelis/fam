@@ -123,7 +123,9 @@ namespace est_dados_n1 {
         public void ImprimeFrequenciaAnos() {
             int menorAno = lista.Min(l => l.anoFabricacao);
             int maiorAno = lista.Max(l => l.anoFabricacao);
+
             Console.WriteLine("\n{0,-20} {1,-20}", "Ano Fabricação", "Frequência");
+            
             int conta = 0;
             for (int i = menorAno; i <= maiorAno; i++) {
                 for (int j = 0; j < lista.Count; j++) {
@@ -131,6 +133,7 @@ namespace est_dados_n1 {
                         conta++;
                     }
                 }
+            
                 if (conta != 0) {
                     Console.WriteLine("{0,-20} {1,-20}", i, conta);
                 }
