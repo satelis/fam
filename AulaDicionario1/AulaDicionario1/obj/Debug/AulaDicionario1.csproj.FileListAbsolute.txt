@@ -1,0 +1,8 @@
+C:\Users\hiq\source\repos\AulaDicionario1\AulaDicionario1\bin\Debug\AulaDicionario1.exe.config
+C:\Users\hiq\source\repos\AulaDicionario1\AulaDicionario1\bin\Debug\AulaDicionario1.exe
+C:\Users\hiq\source\repos\AulaDicionario1\AulaDicionario1\bin\Debug\AulaDicionario1.pdb
+C:\Users\hiq\source\repos\AulaDicionario1\AulaDicionario1\obj\Debug\AulaDicionario1.csproj.AssemblyReference.cache
+C:\Users\hiq\source\repos\AulaDicionario1\AulaDicionario1\obj\Debug\AulaDicionario1.csproj.CoreCompileInputs.cache
+C:\Users\hiq\source\repos\AulaDicionario1\AulaDicionario1\obj\Debug\AulaDicionario1.exe
+C:\Users\hiq\source\repos\AulaDicionario1\AulaDicionario1\obj\Debug\AulaDicionario1.pdb
+C:\Users\hiq\source\repos\AulaDicionario1\AulaDicionario1\obj\Debug\AulaDicionario1.exe.config
