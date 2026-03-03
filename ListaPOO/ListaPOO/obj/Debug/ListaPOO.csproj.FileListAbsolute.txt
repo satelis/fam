@@ -1,0 +1,8 @@
+C:\Users\hiq\source\repos\ListaPOO\ListaPOO\bin\Debug\ListaPOO.exe.config
+C:\Users\hiq\source\repos\ListaPOO\ListaPOO\bin\Debug\ListaPOO.exe
+C:\Users\hiq\source\repos\ListaPOO\ListaPOO\bin\Debug\ListaPOO.pdb
+C:\Users\hiq\source\repos\ListaPOO\ListaPOO\obj\Debug\ListaPOO.csproj.AssemblyReference.cache
+C:\Users\hiq\source\repos\ListaPOO\ListaPOO\obj\Debug\ListaPOO.csproj.CoreCompileInputs.cache
+C:\Users\hiq\source\repos\ListaPOO\ListaPOO\obj\Debug\ListaPOO.exe
+C:\Users\hiq\source\repos\ListaPOO\ListaPOO\obj\Debug\ListaPOO.pdb
+C:\Users\hiq\source\repos\ListaPOO\ListaPOO\obj\Debug\ListaPOO.exe.config

@@ -1,0 +1,15 @@
+C:\Users\53667513810\Source\Repos\Matriz\Matriz\bin\Debug\Matriz.exe.config
+C:\Users\53667513810\Source\Repos\Matriz\Matriz\bin\Debug\Matriz.exe
+C:\Users\53667513810\Source\Repos\Matriz\Matriz\bin\Debug\Matriz.pdb
+C:\Users\53667513810\Source\Repos\Matriz\Matriz\obj\Debug\Matriz.csproj.AssemblyReference.cache
+C:\Users\53667513810\Source\Repos\Matriz\Matriz\obj\Debug\Matriz.csproj.CoreCompileInputs.cache
+C:\Users\53667513810\Source\Repos\Matriz\Matriz\obj\Debug\Matriz.exe
+C:\Users\53667513810\Source\Repos\Matriz\Matriz\obj\Debug\Matriz.pdb
+C:\Users\hiq\source\repos\Matriz\Matriz\bin\Debug\Matriz.exe.config
+C:\Users\hiq\source\repos\Matriz\Matriz\bin\Debug\Matriz.exe
+C:\Users\hiq\source\repos\Matriz\Matriz\bin\Debug\Matriz.pdb
+C:\Users\hiq\source\repos\Matriz\Matriz\obj\Debug\Matriz.csproj.AssemblyReference.cache
+C:\Users\hiq\source\repos\Matriz\Matriz\obj\Debug\Matriz.exe.config
+C:\Users\hiq\source\repos\Matriz\Matriz\obj\Debug\Matriz.csproj.CoreCompileInputs.cache
+C:\Users\hiq\source\repos\Matriz\Matriz\obj\Debug\Matriz.exe
+C:\Users\hiq\source\repos\Matriz\Matriz\obj\Debug\Matriz.pdb

@@ -1,0 +1,8 @@
+C:\Users\hiq\source\repos\MatrizDados\MatrizDados\bin\Debug\MatrizDados.exe.config
+C:\Users\hiq\source\repos\MatrizDados\MatrizDados\bin\Debug\MatrizDados.exe
+C:\Users\hiq\source\repos\MatrizDados\MatrizDados\bin\Debug\MatrizDados.pdb
+C:\Users\hiq\source\repos\MatrizDados\MatrizDados\obj\Debug\MatrizDados.csproj.AssemblyReference.cache
+C:\Users\hiq\source\repos\MatrizDados\MatrizDados\obj\Debug\MatrizDados.csproj.CoreCompileInputs.cache
+C:\Users\hiq\source\repos\MatrizDados\MatrizDados\obj\Debug\MatrizDados.exe
+C:\Users\hiq\source\repos\MatrizDados\MatrizDados\obj\Debug\MatrizDados.pdb
+C:\Users\hiq\source\repos\MatrizDados\MatrizDados\obj\Debug\MatrizDados.exe.config

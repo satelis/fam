@@ -1,0 +1,8 @@
+C:\Users\hiq\source\repos\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\PedraPapelTesoura.exe.config
+C:\Users\hiq\source\repos\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\PedraPapelTesoura.exe
+C:\Users\hiq\source\repos\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\PedraPapelTesoura.pdb
+C:\Users\hiq\source\repos\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\PedraPapelTesoura.csproj.AssemblyReference.cache
+C:\Users\hiq\source\repos\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\PedraPapelTesoura.csproj.CoreCompileInputs.cache
+C:\Users\hiq\source\repos\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\PedraPapelTesoura.exe
+C:\Users\hiq\source\repos\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\PedraPapelTesoura.pdb
+C:\Users\hiq\source\repos\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\PedraPapelTesoura.exe.config

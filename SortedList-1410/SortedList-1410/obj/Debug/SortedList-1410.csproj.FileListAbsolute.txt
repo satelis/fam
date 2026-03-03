@@ -1,0 +1,8 @@
+C:\Users\hiq\source\repos\SortedList-1410\SortedList-1410\bin\Debug\SortedList-1410.exe.config
+C:\Users\hiq\source\repos\SortedList-1410\SortedList-1410\bin\Debug\SortedList-1410.exe
+C:\Users\hiq\source\repos\SortedList-1410\SortedList-1410\bin\Debug\SortedList-1410.pdb
+C:\Users\hiq\source\repos\SortedList-1410\SortedList-1410\obj\Debug\SortedList-1410.csproj.AssemblyReference.cache
+C:\Users\hiq\source\repos\SortedList-1410\SortedList-1410\obj\Debug\SortedList-1410.csproj.CoreCompileInputs.cache
+C:\Users\hiq\source\repos\SortedList-1410\SortedList-1410\obj\Debug\SortedList-1410.exe
+C:\Users\hiq\source\repos\SortedList-1410\SortedList-1410\obj\Debug\SortedList-1410.pdb
+C:\Users\hiq\source\repos\SortedList-1410\SortedList-1410\obj\Debug\SortedList-1410.exe.config
